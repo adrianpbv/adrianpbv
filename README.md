@@ -1,4 +1,4 @@
-### Hi 👋, I'm Adrian an Android Developer, who love research and learn about programming and new techs :rocket:
+### Hi 👋, I'm Adrian, an Android Developer who love research and learn about programming and new techs :rocket:
 
  [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/adrianpbv)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrianjesus/)
