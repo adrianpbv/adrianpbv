@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working as a Freelancer
 - 🌱 I’m currently improving:
-    - [Android/Kotlin](https://developer.android.com/kotlin?hl=pt-br) skills;
+    - [Android/Kotlin](https://developer.android.com/kotlin) skills;
     - UX desing
 - 💬 Ask me about Android, Kotlin, Python & action movies.
 - 📫 How to reach me: adrianpbv@gmail.com
@@ -18,7 +18,7 @@
  &nbsp;
  <!--
   <a href="https://github.com/filipebezerra">
-    <img width="55%" align="right" alt="Filipe Bezerra's github stats" src="https://github-readme-stats.vercel.app/api?username=adrianpbv&show_icons=true&theme=cobalt&hide_border=true" />
+    <img width="55%" align="right" alt="Adrian's github stats" src="https://github-readme-stats.vercel.app/api?username=adrianpbv&show_icons=true&theme=cobalt&hide_border=true" />
   </a>
   -->
  
