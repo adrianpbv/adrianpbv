@@ -11,7 +11,7 @@
     - [Jetpack Compose UI](https://developer.android.com/courses/jetpack-compose/course) skills;
     - [Docker](https://docs.docker.com/get-started) contenarization and continuos deployment with Bitbucket VS
     - Mobile development with [Xamarin](https://learn.microsoft.com/en-us/xamarin/get-started/) and C#
-- 💬 Ask me about Android, Java, Kotlin, Xamrin, C#.
+- 💬 Ask me about Android, Java, Kotlin, Xamarin, C#.
 - 📫 How to reach me: adrianpbv@gmail.com
 - ⚡ Fun fact: I love cycling, fishing and seeing sunsets
 
