@@ -1,4 +1,4 @@
-### Hi 👋, I'm Adrian, an Android Developer who love research and learn about programming and new techs :rocket:
+### Hi 👋, I'm Adrian, an Android and Backend Developer who love research and learn about programming and new techs :rocket:
 
  [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/adrianpbv)
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrianjesus/)
@@ -6,11 +6,12 @@
  
  &nbsp;
 
-- 👨‍💻 I’m currently working as a Freelancer
+- 👨‍💻 I’m currently working as a Android and Backend Developer
 - 🌱 I’m currently improving:
-    - [Android/Kotlin](https://developer.android.com/kotlin) skills;
-    - UX desing
-- 💬 Ask me about Android, Kotlin, Python & action movies.
+    - [Jetpack Compose UI](https://developer.android.com/courses/jetpack-compose/course) skills;
+    - [Docker](https://docs.docker.com/get-started) contenarization and continuos deployment with Bitbucket VS
+    - Mobile development with [Xamarin](https://learn.microsoft.com/en-us/xamarin/get-started/) and C#
+- 💬 Ask me about Android, Java, Kotlin, Xamrin, C#.
 - 📫 How to reach me: adrianpbv@gmail.com
 - ⚡ Fun fact: I love cycling, fishing and seeing sunsets
 
