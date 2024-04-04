@@ -9,8 +9,8 @@
 - 👨‍💻 I’m currently working as a Android and Backend Developer
 - 🌱 I’m currently improving:
     - [Jetpack Compose UI](https://developer.android.com/courses/jetpack-compose/course) skills;
-    - [Docker](https://docs.docker.com/get-started) contenarization and continuos deployment with Bitbucket VS
-    - Mobile development with [Xamarin](https://learn.microsoft.com/en-us/xamarin/get-started/) and C#
+    - [Docker](https://docs.docker.com/get-started) contenarization for backend server
+    - Android CI/CD with Bitrise
 - 💬 Ask me about Android, Java, Kotlin, Xamarin, C#.
 - 📫 How to reach me: adrianpbv@gmail.com
 - ⚡ Fun fact: I love cycling, fishing and seeing sunsets
