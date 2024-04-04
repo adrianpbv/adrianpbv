@@ -11,7 +11,7 @@
     - [Jetpack Compose UI](https://developer.android.com/courses/jetpack-compose/course) skills;
     - [Docker](https://docs.docker.com/get-started) contenarization for backend server
     - Android CI/CD with Bitrise
-- 💬 Ask me about Android, Java, Kotlin, Xamarin, C#.
+- 💬 Ask me about Android, Java, Kotlin, Spring Boot.
 - 📫 How to reach me: adrianpbv@gmail.com
 - ⚡ Fun fact: I love cycling, fishing and seeing sunsets
 
