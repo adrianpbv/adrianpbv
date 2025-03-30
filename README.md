@@ -6,12 +6,12 @@
  
  &nbsp;
 
-- 👨‍💻 I’m currently working as a Android and Backend Developer
+- 👨‍💻 I’m currently working as a Backend Developer and Android
 - 🌱 I’m currently improving:
-    - [Jetpack Compose UI](https://developer.android.com/courses/jetpack-compose/course) skills;
     - [Docker](https://docs.docker.com/get-started) contenarization for backend server
-    - Android CI/CD with Bitrise
-- 💬 Ask me about Android, Java, Kotlin, Spring Boot.
+    - AWS: Amazon RDS, Amazon API Gateway, IAM, Amazon EC2
+    - [Jetpack Compose UI](https://developer.android.com/courses/jetpack-compose/course) skills.
+- 💬 Ask me about Spring Boot, Android, Java, Kotlin.
 - 📫 How to reach me: adrianpbv@gmail.com
 - ⚡ Fun fact: I love cycling, fishing and seeing sunsets
 
